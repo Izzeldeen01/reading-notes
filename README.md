@@ -17,8 +17,8 @@ mindset otherwis you have to belive.
 | success of others |threat             | inspiring       | 
 
 ## **How to keep growth mindset?** 
-1. take challenges and never avoid one. 
-2. never lose attention, concentrate on what you are doing. 
-3. consume all energy you have >we are human not cellphones. 
-4. judge yourself by yourself. 
-5. be inspired from others success. 
+1. ***take challenges and never avoid one.*** 
+2. ***never lose attention, concentrate on what you are doing.*** 
+3. ***consume all energy you have >we are human not cellphones.*** 
+4. **judge** yourself by yourself. 
+5. be **inspired** from others success. 
