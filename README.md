@@ -7,6 +7,7 @@ beliving that foundimental abilities can be inhanced
 through learning and effort then you have are a growth
 mindset otherwis you have to belive. 
 ### The difference between ***fix & growth*** mindsets **appears** in how they **act**.
+
 |                   | ***FIXED***       |***GROWTH***     |
 |:---:              |     :---:         |  :---:          |
 |challenges         | avoid             | go throw        |
