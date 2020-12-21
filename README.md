@@ -1,4 +1,4 @@
-# Grouth mindset 
+# Growth mindset 
 If you have a growth mindset then you have
 the ability to open unlimited pathways to more creativity and possibilty.
 
