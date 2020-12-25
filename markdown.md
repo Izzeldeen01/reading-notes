@@ -1,4 +1,4 @@
-# ***Mastering markdown***
+# *Mastering markdown
  markdowne is a text styling method on the web. which allow you to control document, formating words, adding images and creat lists.
  mostly, markdown is just regular text with non-alphabetic characters. 
  
