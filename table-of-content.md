@@ -8,3 +8,4 @@ pleas contact me @ [alqawasmehizzeldeen@gmail.com](alqawasmehizzeldeen@gmail.com
 |:---:        |:---:               |:---:              |
 |*read01*     |markdown            |[markdown.md](https://izzeldeen01.github.io/reading-notes/markdown)|
 
+|lab02b| growthmindset|[growthmindset.md](https://izzeldeen01.github.io/reading-notes/growthmindset)| 
