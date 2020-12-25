@@ -8,7 +8,7 @@ through learning and effort then you have are a growth
 mindset otherwis you have to belive. 
 ### The difference between ***fix & growth*** mindsets **appears** in how they **act**.
 
-|                   | ***FIXED***       |***GROWTH***     |
+|                   | ***FIXED***       |***GROWTH***     
 |:---:              |     :---:         |  :---:          |
 |challenges         | avoid             | go throw        |
 |obstacles          | loses focus       |  concentrate    |
