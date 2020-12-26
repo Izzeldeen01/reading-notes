@@ -14,7 +14,7 @@ In order to have a boolean results (true,false) you need to use comparison opera
 
 ### logial operators:
 1. && logical AND. 
-2. \||\ logical OR.
+2. \|| logical OR.
 3. ! logical NOT. 
 
 
