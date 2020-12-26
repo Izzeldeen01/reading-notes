@@ -10,3 +10,4 @@ pleas contact me @ [alqawasmehizzeldeen@gmail.com](alqawasmehizzeldeen@gmail.com
 |lab01b       |growthmindset       |[growthmindset.md](https://izzeldeen01.github.io/reading-notes/growthmindset)| 
 |read03       |revision the cloud  |[revision-and-the-cloud.md](https://izzeldeen01.github.io/reading-notes/revisions-and-the-cloud)| 
 |read04       |webpage structure   |[webpage-structure-HTML.md](https://izzeldeen01.github.io/reading-notes/Structure-web-pages-with-HTML)| 
+|read07       |programming with JS | [programming-with-js.md](https://izzeldeen01.github.io/reading-notes/programming-with-js)|
