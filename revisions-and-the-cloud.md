@@ -6,16 +6,16 @@
  The ability of revisit various versions of a file or set of files 
  by recording changes is called ***Version control*** and it devided into three main types: 
 
- ### 1.**Local Version Control** 
+  ### 1. **Local Version Control** 
  which creat ***one database*** on your hard disk that stores changes to files.
- ### 2.**Centralized Version Control** 
+  ### 2. **Centralized Version Control** 
  which allows the ***collaboration*** within developer teams on a single file or set of files, by ***creating*** a server storing all changes and file versions which can be accessed by several clients. 
- ### 3.**Distributed Version Control** 
+ ### 3. **Distributed Version Control** 
  addressing the major vulnerability of the ***CVS*** as a single point of failure. in case CVS gose down collaborators ***cannot*** 
  worke with each other. 
  ***DVCS*** prevent this type pf catastrophic loss which allow the client **creat mirrored repositories** . 
 
- # What is Git? 
+ #  What is Git? 
  Git dose **Snapshots** files, **Local Operation** tool because most necessary information can be found in local resource, 
  **Tracking Changes** applied to any file, in addition to prevent **Loss of Data** and uploading files in three main **states**:
  * Committed.
