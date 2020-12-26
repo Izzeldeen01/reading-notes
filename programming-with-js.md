@@ -48,12 +48,17 @@ operators allow the programmers to creat a single value from one or more variabl
 grouping a series of statments together in oreder to perform a specific task. 
 
 1. Declaring a function:
+
 creating a function by giving it a name and then write the statments you need. 
-2. calling a function: 
+2. calling a function:
+
 allowes you to execute all of the statments between it's curly braces with just one line of code. 
 3. Declaring functions that needs information:
+
 giving parameters inside the function where parameter act like variables. 
 4. Calling function thar needs information: 
+
 giving a value to function that has parameter. 
 5. getting a single value out of a function:
+
 returning information to the code. 
