@@ -1,68 +1,17 @@
-# Error handling and debugging 
+## CSS: 
 
-1. order of execution: 
+- understanding how css works by imagine that there is an invisible box around every HTML element.
+- Rules are made up of selectors and declarations.
+- Selectors allow you to target your rules at different elements.
+- Declarations made of two parts: 
+1. the properties of the element that you want to change.
+2. the values of those properties.
 
-it helps finding the source of an error. 
+## Color:
 
-2. execution contexts: 
-
-3. the stack:
-
-when javascript interpreter process one line of code at a time when a statement needs data from another function it stascks. 
-
-4. execution contexts & hoisting: 
-
-which is divided to 
-* prepare 
-* excute
-
-5. understanding scope: 
-
-In the interpreter, each execution context has its own va ri ables object.
-It holds the variables, functions, and parameters available within it.
-Each execution context can also access its parent's v a ri ables object. 
-
-6. understanding errors: 
-
-if javascript had an error then it will throws an exception. 
-
-7. error objects: 
-
-it helps finding mistakes and browsers have tools to help. 
-
-# content panels 
-
-content panels allow you to showcase extra information within a limited space. 
-accordion, tabbed panels, responsive slider, creating a jquery plugin, modal window and photo viewer are several examples in panels. 
-
-### separation of concerns 
-
-its a best practice to separate your content HTMI,JS,CSS 
-
-### accessibility and no javascript 
-
-thinking about those who are using your website in diffferent statuses when writing any script. 
-
-### creating  panels 
-
-each panel had its own way to be created 
-those steps vary depending on the type of panels you want to creat. 
-
-
-#### all in all: 
-
-* Content panels offer ways to show more content
-  within a limited area.
-* Popular types of content panels include accordions,
-  tabs, photo viewers, modal windows, and sliders.
-* As with all website code, it is advisable to separate
-  content (HTML), presentation (CSS), and behavior
-  (JavaScript) into different files.
-* You can create objects to represent the functionality
-  you want (as with the modal window).
-* You can turn functions into jQuery plugins that allow
-* you to re-use code and share it with others.
-* Immediately invoked function expressions (llFEs) are
-  used to contain scope and prevent naming collisions. 
-
-
+1. color brings your site to life and help convey the mood and evokes reactions.
+2. we can specify it by: RGB values, hex codes, color names.
+3. we can find the color by color pickers.
+4. There has to be a different between the writing and the background color so people can read your content.
+5. you can specify your color by RGB values, it's known as RGBA.
+6. and you can also specify by HSL values and with an optional opacity value, it's known as HSLA.
